@@ -87,9 +87,10 @@ We built a **behavioral-based fatigue prediction system** that:
 ---
 
 ##  Output
-
-
-
+![Dashboard](Output.png)
+![Result1](Result1.png)
+![Result2](Result2.png)
+![Result3](Result3.png)
 
 ---
 
