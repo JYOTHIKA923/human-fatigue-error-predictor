@@ -11,7 +11,7 @@ def run_analysis():
     thread.start()
 
 
--
+
 def track_and_display():
     typing_speed, pause_time, backspace, mouse_move, word_count = start_tracking(10)
 
